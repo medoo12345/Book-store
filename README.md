@@ -21,7 +21,7 @@ Secure Payments: Supports secure payment gateways for transactions.
 Admin Panel: Manage books, orders, and user accounts.
 Reviews & Ratings: Users can leave reviews and ratings for books.
 Technologies
-Frontend: HTML, CSS, JavaScript, React.js
+
 Backend: Node.js, Express.js
 Database: MongoDB
 Payment Integration: Stripe (or other payment service)
